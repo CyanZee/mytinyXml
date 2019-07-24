@@ -1,0 +1,11 @@
+<Object cols="1920" rows="1080" />
+<images>
+    <image path="image1.jpg" ID="1" x="223" y="444" w="231" h="43">
+        <resultPic path="reimage.jpg">
+            <components nut="1" latch="0" bolt="1">
+                <component path="component_name.jpg" status="normal" />
+                <component path="component_name.jpg" status="normal" />
+            </components>
+        </resultPic>
+    </image>
+</images>
